@@ -11,7 +11,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/backend-blog" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
   &quot;lastFilter&quot;: {
@@ -21,7 +21,7 @@
 }</component>
   <component name="GithubPullRequestsUISettings"><![CDATA[{
   "selectedUrlAndAccountId": {
-    "url": "https://github.com/powder-rose/Blog-Final.git",
+    "url": "https://github.com/powder-rose/Blog-final.git",
     "accountId": "91a97d84-9c3b-4064-8b0a-819f74a94c5d"
   }
 }]]></component>
@@ -43,6 +43,7 @@
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
     "javascript.preferred.runtime.type.id": "node",
+    "last_opened_file_path": "C:/Users/Екатерина/WebstormProjects/blog-app",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -111,7 +112,8 @@
       <workItem from="1782357990886" duration="1056000" />
       <workItem from="1782361049954" duration="2299000" />
       <workItem from="1782411362080" duration="1462000" />
-      <workItem from="1782463523661" duration="6126000" />
+      <workItem from="1782463523661" duration="7301000" />
+      <workItem from="1782474425369" duration="376000" />
     </task>
     <servers />
   </component>
